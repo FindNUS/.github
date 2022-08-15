@@ -16,5 +16,5 @@ Documentation: https://findnus.github.io
 
 ## Video
 
-You may watch our project video [here](https://drive.google.com/file/d/1nR3jcpxzYurjFBZC3bAsQacNTzcjAwro/view?usp=sharing)
+You may watch our project video [here](https://drive.google.com/file/d/1iCED10Om6rQp8vGrJB9r1AbT2uZWFd0H/view?usp=sharing)
 
